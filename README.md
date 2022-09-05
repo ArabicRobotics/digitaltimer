@@ -1,2 +1,2 @@
-# digitaltimer
-digitaltimer , is a timer that you can use to measure your project 
+# Digitaltimer
+Digitaltimer , is a timer that you can use to measure your project 
