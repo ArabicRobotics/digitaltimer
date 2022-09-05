@@ -1,4 +1,4 @@
 # Digitaltimer
 Digitaltimer , is a timer that you can use to measure your project 
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Alt Text](https://raw.githubusercontent.com/ArabicRobotics/digitaltimer/main/run.gif)
